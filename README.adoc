@@ -1,0 +1,8 @@
+1. Qual a principal vantagem do padrão Observer em sistemas reativos?
+Ele vai avisar as pessoas interessadas automaticamente quando algo muda, serve para notificações e coisas que mudam em tempo real.
+
+2. Por que o Strategy é melhor que muitos if?
+Evita muitos if, usa para nao deixar o código todo bagunçado.
+
+3. Dê um exemplo real em que Command seja melhor que apenas chamar métodos diretamente.
+Jogos pode ser um exemplo, comandos como passar ou chutar podem ser salvos e desfeitos, o que não seria possível com chamadas diretas.
